@@ -1,1 +1,1 @@
-# Javascript-Essencial
+# Javascript-ES6-Essencial
