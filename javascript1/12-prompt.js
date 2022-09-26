@@ -52,7 +52,7 @@ else {
 /** Processando o mês de nascimento do usuário **/
 /** Ao executar o arquivo digite a informação solicitada no dialogo do terminal **/
 
-const prompt = require("prompt-sync")({sigint: true});
+const prompt2 = require("prompt-sync")({sigint: true});
 
 var mes = prompt("Digite o mês que você nasceu: ");
 
